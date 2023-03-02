@@ -1,0 +1,7 @@
+*.o
+*.elf
+*.bin
+*.IMG
+*.img
+*.BIN
+.vscode
